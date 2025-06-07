@@ -1,0 +1,2 @@
+# streamlit_openAI_StableDif
+Streamlitを使って画像をuploadしてopenAIにプロンプトを生成させてstableDifに画像を生成させる
