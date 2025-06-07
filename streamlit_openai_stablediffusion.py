@@ -42,7 +42,7 @@ if uploaded_file:
 Using the visual characteristics of this person, generate a detailed English prompt for DALL·E 3 to create a Studio Ghibli-style anime illustration.
 
 Instructions:
-- Make the character look younger and more youthful than the original photo.
+- Make the character look only a little bit younger and a little bit more youthful than the original photo.
 - Include details such as age, gender, facial expression, hairstyle, clothing, and pose.
 - Describe a vivid, peaceful background (e.g. meadow, forest, village, twilight sky).
 - Use stylistic keywords such as "studio ghibli style", "anime painting", "soft light", "pastel colors", "dreamy atmosphere".
